@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Python environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Terraform variable secrets
+*.tfvars
+*.tfvars.json
+
+# Databricks
+.databricks/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

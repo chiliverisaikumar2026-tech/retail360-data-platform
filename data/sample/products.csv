@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Electronics,65000
+P002,Wireless Mouse,Electronics,1200
+P003,Office Chair,Furniture,8500
+P004,Office Desk,Furniture,12000
+P005,Headphones,Electronics,3000
+P006,Keyboard,Electronics,2500
+P007,Monitor,Electronics,18000
+P008,Bookshelf,Furniture,7000
